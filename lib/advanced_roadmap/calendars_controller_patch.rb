@@ -1,4 +1,4 @@
-require_dependency "calendars_controller"
+#require_dependency "calendars_controller"
 
 module AdvancedRoadmap
   module CalendarsControllerPatch

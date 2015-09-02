@@ -1,4 +1,4 @@
-require_dependency "projects_helper"
+#require_dependency "projects_helper"
 
 module AdvancedRoadmap
   module ProjectsHelperPatch

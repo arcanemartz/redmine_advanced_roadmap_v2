@@ -1,4 +1,4 @@
-require_dependency "versions_controller"
+#require_dependency "versions_controller"
 
 module AdvancedRoadmap
   module VersionsControllerPatch

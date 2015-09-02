@@ -1,4 +1,4 @@
-require_dependency "redmine/i18n"
+#require_dependency "redmine/i18n"
 
 module AdvancedRoadmap
   module RedmineI18nPatch

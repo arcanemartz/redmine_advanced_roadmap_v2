@@ -1,4 +1,4 @@
-require_dependency "issues_controller"
+#require_dependency "issues_controller"
 
 module AdvancedRoadmap
   module JournalPatch

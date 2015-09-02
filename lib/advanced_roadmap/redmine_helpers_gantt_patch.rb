@@ -1,4 +1,4 @@
-require_dependency "redmine/helpers/gantt"
+#require_dependency "redmine/helpers/gantt"
 
 module AdvancedRoadmap
   module RedmineHelpersGanttPatch

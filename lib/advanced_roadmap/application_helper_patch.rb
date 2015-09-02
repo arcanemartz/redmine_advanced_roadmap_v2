@@ -1,4 +1,4 @@
-require_dependency "application_helper"
+#require_dependency "application_helper"
 
 module AdvancedRoadmap
   module ApplicationHelperPatch

@@ -1,4 +1,4 @@
-require_dependency "query"
+#require_dependency "query"
 
 module AdvancedRoadmap
   module QueryPatch

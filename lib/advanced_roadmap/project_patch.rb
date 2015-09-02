@@ -1,4 +1,4 @@
-require_dependency "projects_controller"
+#require_dependency "projects_controller"
 
 module AdvancedRoadmap
   module ProjectPatch
